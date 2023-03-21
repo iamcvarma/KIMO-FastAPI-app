@@ -1,0 +1,46 @@
+[
+  {
+    "_id":"course1",
+    "name": "Introduction to Python",
+    "date": 1648107366,
+    "description": "Learn the basics of Python programming language.",
+    "domain": ["Programming"],
+    "chapters": [
+      {
+        "_id": "chapter1",
+        "name": "Python Basics",
+        "contents": "This chapter covers the basics of Python syntax and data types.",
+        "rating": 2
+      },
+      {
+        "_id": "chapter2",
+        "name": "Functions and Control Flow",
+        "contents": "This chapter covers functions and control flow statements in Python.",
+        "rating": 2
+      }
+    ],
+    "rating": 2
+  },
+  {
+    "_id":"course2",
+    "name": "Web Development with Flask",
+    "date": 1648107399,
+    "description": "Build web applications using Flask framework.",
+    "domain": ["Web Development"],
+    "chapters": [
+      {
+        "_id": "chapter1",
+        "name": "Flask Basics",
+        "contents": "This chapter covers the basics of Flask framework.",
+        "rating": 2
+      },
+      {
+        "_id": "chapter2",
+        "name": "RESTful APIs with Flask",
+        "contents": "This chapter covers how to build RESTful APIs with Flask.",
+        "rating": 2
+      }
+    ],
+    "rating": 2
+  }
+]
